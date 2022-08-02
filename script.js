@@ -78,7 +78,7 @@ btn.addEventListener('click', function (e) {
 
 
 
-
+/*
 // buttons is a node list. It looks and acts much like an array.
 const buttons = document.querySelectorAll('button');
 
@@ -90,7 +90,7 @@ buttons.forEach((button) => {
     alert(button.id);
   });
 });
-
+*/
 
 
 
